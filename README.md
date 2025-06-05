@@ -6,6 +6,36 @@ Dalam proyek ini, saya berperan sebagai seorang *Data Analyst* untuk menganalisi
 
 ---
 
+## 📝 Latar Belakang
+
+Attrition atau pengunduran diri karyawan menjadi salah satu isu penting yang dihadapi tim manajemen SDM di perusahaan. Jika attrition terus terjadi, perusahaan akan menghadapi penurunan produktivitas, meningkatnya biaya rekrutmen dan pelatihan, serta hilangnya pengetahuan dan pengalaman penting dalam organisasi.
+
+Saat ini, jumlah karyawan yang resign tercatat sebanyak 237 orang (16,12% dari total karyawan), sehingga hanya tersisa 1.233 karyawan aktif. Analisis attrition diperlukan untuk memahami penyebab utama dan merumuskan strategi retensi yang efektif.
+
+---
+
+## 👥 Stakeholder
+
+Pihak-pihak yang berkepentingan dan berwenang menindaklanjuti hasil analisis attrition:
+
+1. **HR Manager / HR Business Partner**: Bertanggung jawab atas operasional manajemen SDM, menyusun dan mengeksekusi program retensi, onboarding, mentoring, serta kebijakan lembur.
+2. **HR Director / Chief Human Capital Officer (CHCO)**: Menetapkan arah strategis kebijakan SDM, menyetujui kebijakan baru, mengalokasikan anggaran, dan membawa temuan ke level direksi.
+3. **Department Head (misal: Head of Sales)**: Memimpin departemen dengan attrition tinggi, melakukan intervensi langsung seperti redistribusi kerja, pelatihan tim, dan pemantauan kepuasan kerja.
+
+---
+
+## 🧭 Metodologi Analisis
+
+Analisis dilakukan melalui tiga pendekatan utama:
+
+1. **Eksplorasi Data (EDA)**: Menampilkan pola dan tren pengunduran diri secara visual, seperti membandingkan persentase resign berdasarkan usia, gender, atau departemen.
+2. **Uji Statistik (Inferensial)**: Menggunakan teknik statistik (Mann-Whitney U test, Chi-Square Test, Kruskal-Wallis) untuk mengetahui signifikansi hubungan antar variabel.
+3. **Interpretasi Berbasis Data**: Semua insight diambil dari hasil analisis statistik, bukan asumsi atau opini pribadi.
+
+**Tools:** Python (Pandas, Seaborn, Matplotlib, Scipy)
+
+---
+
 ## 🎯 Tujuan Bisnis
 
 •⁠  ⁠Mengurangi tingkat resign yang merugikan perusahaan.
