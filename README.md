@@ -82,7 +82,7 @@ Dalam proyek ini, saya berperan sebagai seorang *Data Analyst* untuk menganalisi
 •⁠  ⁠⁠ data-analyst-attrition.ipynb ⁠ – Notebook analisis utama
 •⁠  ⁠⁠ WA_Fn-UseC_-HR-Employee-Attrition.csv ⁠ – Dataset asli
 •⁠  ⁠[Dashboard Looker Studio](https://lookerstudio.google.com/reporting/89b4df9b-ea99-4586-827c-9d7c6c4e1f89)
-•⁠  ⁠[Slide Presentasi](https://drive.google.com/file/d/1qsGmR6Q45ZfT_kduLAmFW0jc9HFTkxhO/view?usp=sharing)
+•⁠  ⁠[Slide Presentasi](https://drive.google.com/file/d/1J4bKyix2w_i6hc8gZ957NGl3E3pTaK8G/view?usp=sharing)
 
 ---
 
